@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Exemplo de Alert</title>
+<script>
+function exibirMensagem() {
+alert("Eu te amo natikeli");
+}
+</script>
+</head>
+<body>
+<button onclick="exibirMensagem()">Clique aqui</button>
+</body>
+</html>
